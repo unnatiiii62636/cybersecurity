@@ -1,0 +1,82 @@
+Insider Threat
+
+Description
+
+Employees misuse access privileges intentionally or accidentally.
+
+Impact
+
+Data theft
+Privacy violations
+Financial loss
+
+Prevention
+
+Access control
+Employee monitoring
+Least privilege policy
+Malware
+
+Description
+
+Malicious software designed to damage systems.
+
+Impact
+
+File corruption
+System crash
+Data theft
+
+Prevention
+
+Antivirus
+Regular updates
+Safe downloads
+Phishing
+
+Description
+
+Fraudulent emails or websites designed to steal information.
+
+Impact
+
+Password theft
+Financial fraud
+Identity theft
+
+Prevention
+
+Verify links
+Enable MFA
+Security awareness training
+Weak Passwords
+
+Description
+
+Passwords that are short or easy to guess.
+
+Impact
+
+Account compromise
+Unauthorized access
+
+Prevention
+
+Strong passwords
+Password manager
+MFA
+Unpatched Systems
+
+Description
+
+Systems without latest security updates.
+
+Impact
+
+Exploitation of vulnerabilities
+Malware infection
+
+Prevention
+
+Regular updates
+Patch management
