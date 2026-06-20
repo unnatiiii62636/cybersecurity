@@ -1,0 +1,48 @@
+Confidentiality
+
+Definition
+
+Confidentiality means protecting sensitive information from unauthorized access.
+
+Importance
+
+It ensures that private information remains secure and accessible only to authorized users.
+
+Real World Example
+
+Online banking systems allow only authenticated customers to access account details.
+
+Integrity
+
+Definition
+
+Integrity ensures that information remains accurate and unaltered.
+
+Importance
+
+It prevents unauthorized modification of important data.
+
+Real World Example
+
+A university database stores student marks accurately and prevents unauthorized changes.
+
+Availability
+
+Definition
+
+Availability ensures that information and services are accessible whenever needed.
+
+Importance
+
+Users must be able to access systems without interruption.
+
+Real World Example
+
+Cloud services remain available 24/7 so users can access files anytime.
+
+| Aspect  | Confidentiality   | Integrity         | Availability    |
+| ------- | ----------------- | ----------------- | --------------- |
+| Purpose | Protect Data      | Maintain Accuracy | Ensure Access   |
+| Threat  | Data Breach       | Data Tampering    | DDoS Attack     |
+| Example | Banking Passwords | Exam Results      | College Website |
+| Goal    | Privacy           | Trustworthiness   | Accessibility   |
